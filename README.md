@@ -1,6 +1,16 @@
 ## ABOUT ME
+
+  <a href="https://solved.ac/profile/kdhhuns2000">
+    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhhuns2000">
+  </a>
+  
+
 - Department of Software, Gachon University (2019.03 ~ )
 - Google Developer Students Clubs Member @ Gachon University (2023.09 ~ )
+
+  <br/>
+  <br/>
+
 
 ## Careers
 - The 1st Gachon University G.IT Waggle Waggle Hackthon, the top award (2023.08.18 ~ 2023.08.19)
@@ -31,14 +41,12 @@
 ![Aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## ETC
+---
 <div align="center">
-  <img width=333px height=170px src="https://github-readme-stats.vercel.app/api?username=kdhhuns2000"/>
-  <img width=333px height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdhhuns2000&layout=compact"/>
-  <a href="https://solved.ac/profile/kdhhuns2000">
-    <img width=333px height=170px src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhhuns2000">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kdhhuns2000"/>
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdhhuns2000&layout=compact"/>
 </div>
+
 <!--
 **kdhhuns2000/kdhhuns2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
